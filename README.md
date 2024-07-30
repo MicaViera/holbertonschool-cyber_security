@@ -18,11 +18,11 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * What are the common methods for securing a network?
 
 ## Resources
-[What is Cybersecurity?](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html)
-[The 5 Types of Cybersecurity](https://www.officesolutionsit.com.au/blog/five-types-of-cyber-security)
-[The 5 Most Important Cybersecurity Concepts](https://securitymisunderstood.com/5-essential-cybersecurity-concepts-everyone-should-know/)
-[Cybersecurity Basics: A Hands-on Approach](https://www.youtube.com/watch?v=inWWhr5tnEA)
-[Understanding Cybersecurity Threats](https://www.ibm.com/think/topics/cyberthreats-types)
-[Understanding the Fundamentals of Cybersecurity Frameworks](https://securityboulevard.com/2021/05/understanding-the-fundamentals-of-cybersecurity-frameworks/)
-[The CIA Triad](https://www.techtarget.com/whatis/definition/Confidentiality-integrity-and-availability-CIA)
-[Cyber Security Risk Management](https://www.mbccs.com/what-is-cyber-security-risk-management/)
+- [What is Cybersecurity?](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html)
+- [The 5 Types of Cybersecurity](https://www.officesolutionsit.com.au/blog/five-types-of-cyber-security)
+- [The 5 Most Important Cybersecurity Concepts](https://securitymisunderstood.com/5-essential-cybersecurity-concepts-everyone-should-know/)
+- [Cybersecurity Basics: A Hands-on Approach](https://www.youtube.com/watch?v=inWWhr5tnEA)
+- [Understanding Cybersecurity Threats](https://www.ibm.com/think/topics/cyberthreats-types)
+- [Understanding the Fundamentals of Cybersecurity Frameworks](https://securityboulevard.com/2021/05/understanding-the-fundamentals-of-cybersecurity-frameworks/)
+- [The CIA Triad](https://www.techtarget.com/whatis/definition/Confidentiality-integrity-and-availability-CIA)
+- [Cyber Security Risk Management](https://www.mbccs.com/what-is-cyber-security-risk-management/)
