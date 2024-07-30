@@ -17,7 +17,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * How does multi-factor authentication enhance security?
 * What are the common methods for securing a network?
 
-## Resources
+## Resources:
 - [What is Cybersecurity?](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html)
 - [The 5 Types of Cybersecurity](https://www.officesolutionsit.com.au/blog/five-types-of-cyber-security)
 - [The 5 Most Important Cybersecurity Concepts](https://securitymisunderstood.com/5-essential-cybersecurity-concepts-everyone-should-know/)
@@ -26,3 +26,11 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - [Understanding the Fundamentals of Cybersecurity Frameworks](https://securityboulevard.com/2021/05/understanding-the-fundamentals-of-cybersecurity-frameworks/)
 - [The CIA Triad](https://www.techtarget.com/whatis/definition/Confidentiality-integrity-and-availability-CIA)
 - [Cyber Security Risk Management](https://www.mbccs.com/what-is-cyber-security-risk-management/)
+
+## References:
+- [CISA](https://intranet.hbtn.io/rltoken/YehQpMc0nkvDoSGds3biPg)
+- [NIST](https://intranet.hbtn.io/rltoken/W04lkczMLXuu-eLj3rariw)
+- [OWASP](https://intranet.hbtn.io/rltoken/r09i7XrUY7n5_pWj0EPVNg)
+- [SANS](https://intranet.hbtn.io/rltoken/ppbAeZx4dfs5fJSPRqcnKQ)
+- [ISF](https://intranet.hbtn.io/rltoken/BR318HQIPdLsrPpEYLSFtQ)
+- [ISC²](https://intranet.hbtn.io/rltoken/ukZArUOlbR97-t3OQw7aNg)
