@@ -1,2 +1,2 @@
 #!/bin/bash
-ps axu | grep "$1" | grep --invert-match "0.0"
+ps aux | grep "$1" | grep --invert-match "0.0"
