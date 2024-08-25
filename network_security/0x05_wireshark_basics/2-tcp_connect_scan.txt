@@ -1,0 +1,1 @@
+tcp.window_size == 64240 and tcp.connection.syn
