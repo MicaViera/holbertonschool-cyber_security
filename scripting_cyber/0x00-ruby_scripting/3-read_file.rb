@@ -10,4 +10,7 @@ def count_user_ids(path)
   data.each do |entry|
     id_count[entry["userId"]] += 1 if entry.key?("userId")
   end
+  id_count.sort.each do |user_id, count|
+    puts "#{user_id}: #{count}"
+  end
 end
